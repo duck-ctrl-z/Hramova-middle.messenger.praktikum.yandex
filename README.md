@@ -4,7 +4,7 @@
 
 **Реализация чата, аналог Telegram**
 
-[🎨 Design]([https://www.figma.com/design/0dkqXvtpPBhsy5T68Yr03P/MY_CHAT?t=05IzI9YDczAY6Zce-0](https://www.figma.com/design/0dkqXvtpPBhsy5T68Yr03P/MY_CHAT?m=auto&t=MFtqKbZnWy33F07U-6))
+[🎨Design]([https://www.figma.com/design/0dkqXvtpPBhsy5T68Yr03P/MY_CHAT?t=05IzI9YDczAY6Zce-0](https://www.figma.com/design/0dkqXvtpPBhsy5T68Yr03P/MY_CHAT?m=auto&t=MFtqKbZnWy33F07U-6))
 
 </div>
 
